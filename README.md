@@ -20,3 +20,4 @@ Spring Boot REST Boilerplate Project
     "seven": "eight"
 }
 ```
+8. Use http://localhost:8080/name/yourname to get reverse of a String.
